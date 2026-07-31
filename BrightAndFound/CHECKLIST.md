@@ -4,11 +4,11 @@ _The only to-do list. One numbered chronological spine. Done items get struck (`
 and stay in place. The header count below must always match the actual struck count;
 `scripts/vault-health.sh` enforces it. Place at `Knowledge/BrightAndFound/CHECKLIST.md`._
 
-Open: 30 of 30
+Open: 29 of 30
 
 ## Phase 0: Foundations
 
-1. Stand up the HQ: folders, Knowledge vault as a git repo, CLAUDE.md, MEMORY.md, core files scaffolded per SETUP-GUIDE.md, vault-health.sh passing.
+1. ~~Stand up the HQ: folders, Knowledge vault as a git repo, CLAUDE.md, MEMORY.md, core files scaffolded per SETUP-GUIDE.md, vault-health.sh passing.~~
 2. Install and verify the Claude toolchain: skills (impeccable, frontend-design, ui-ux-pro-max, humanizer, web-design-guidelines, dataviz) and MCPs (Shopify dev, chrome-devtools, shadcn, Canva), each proven with one live call, logged in IMPLEMENTED.md.
 3. Name and mark check: USPTO trademark search for "Bright & Found" in the class, domain bought, social handles reserved (TikTok, IG, Pinterest), all recorded in README.
 4. Niche research brief: pick the one launch lane (sleep, focus, or home spa) from search volume, competition and gift-angle data; decision plus revisit condition into decisions.md.
