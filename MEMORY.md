@@ -8,7 +8,9 @@ from the Regulars pattern; place it at `Knowledge/MEMORY.md`._
 
 Bright & Found is an aromatherapy and holistic living store, curated dropship first, private
 label once proven, run by one person. Goal: $2,000/month gross profit on organic traffic
-before any ad spend. No store yet. Focus right now: **finish the setup and get launch-ready.**
+before any ad spend. A live Shopify store already exists and the HQ now runs it (see decision 6):
+a flame-effect aroma diffuser via CJ dropship at brightandfounds.myshopify.com. Focus right now:
+**bring the store up to the kit's standard and reach real organic orders.**
 
 ## The files
 
